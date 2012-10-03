@@ -1,0 +1,8 @@
+
+
+ncs show user <user_id>
+ncs show users
+ncs show tunnels
+ncs debug user <user_id>
+ncs debug flow <ip1> <ip2> <ip3> ...
+
